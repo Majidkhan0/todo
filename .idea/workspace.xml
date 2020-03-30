@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5e07746b-fb72-4848-84b2-8ff33027706e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/Majidkhan0/todoo-list.git" />
+        <option value="https://github.com/Majidkhan0/todooList.git" />
+      </set>
+    </option>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\Users\Majid Khan\TodoList\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZP8z4aOc493WEBtSyzThqEyEL0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5e07746b-fb72-4848-84b2-8ff33027706e" name="Default Changelist" comment="" />
+      <created>1584729627763</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584729627763</updated>
+      <workItem from="1584729630486" duration="2727000" />
+      <workItem from="1584897901490" duration="15286000" />
+      <workItem from="1585045582248" duration="2046000" />
+      <workItem from="1585412742774" duration="211000" />
+      <workItem from="1585414197273" duration="1214000" />
+      <workItem from="1585500193270" duration="2679000" />
+      <workItem from="1585506237114" duration="505000" />
+      <workItem from="1585577203342" duration="385000" />
+      <workItem from="1585586519867" duration="2917000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="433" y="167" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584901293447">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="433" y="167" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1584901293447" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1584902299580">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1584902299580" />
+  </component>
+</project>
